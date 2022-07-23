@@ -8,3 +8,5 @@ In this project, you are required to think about a case study, in which you can 
 - Export all datasets as .RData files (so that we can re-run your code if needed).
 - Add screenshots of your results.
 - Make plots/visualisations wherever possible, using R functions, Gephi, and Tableau. (Most results can be displayed as a plot/visualisation!)
+
+Here is the [visualisation](https://public.tableau.com/app/profile/man.jin/viz/milestone3_dashboard/Dashboard1) by Tableau!
