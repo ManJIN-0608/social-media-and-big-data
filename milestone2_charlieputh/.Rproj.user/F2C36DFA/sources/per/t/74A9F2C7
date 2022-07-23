@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573972772486.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3342752493",
+    "id" : "74A9F2C7",
+    "lastKnownWriteTime" : 1573985043,
+    "last_content_update" : 1573985043770,
+    "path" : "C:/Users/s5148464/Desktop/milestone2_charlieputh/charlieputh_twitter.R",
+    "project_path" : "charlieputh_twitter.R",
+    "properties" : {
+        "cursorPosition" : "63,0",
+        "scrollLine" : "44"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1653015220303.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3786879016",
+    "id" : "9ED027E3",
+    "lastKnownWriteTime" : 1574819444,
+    "last_content_update" : 1574819444,
+    "path" : "E:/Griffith University/4030BigData/milestone3_charlieputh/kmeans_decisiontree.R",
+    "project_path" : "kmeans_decisiontree.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575173039309.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "145BD219",
+    "lastKnownWriteTime" : 2459592266154403181,
+    "last_content_update" : 1575173039309,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "42D3A39F",
+        "caption" : "current_trends",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=current_trends&cache_key=42D3A39F",
+        "displayedObservations" : 50,
+        "environment" : "",
+        "expression" : "current_trends",
+        "object" : "current_trends",
+        "preview" : 0,
+        "totalObservations" : 50,
+        "variables" : 9
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

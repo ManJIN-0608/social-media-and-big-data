@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575173014234.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3247913108",
+    "id" : "FDE7C9AB",
+    "lastKnownWriteTime" : 1574823964,
+    "last_content_update" : 1574823964,
+    "path" : "D:/4030BigData/milestone3_charlieputh/milestone3_charlieputh/rstudioplot.R",
+    "project_path" : "rstudioplot.R",
+    "properties" : {
+        "cursorPosition" : "41,42",
+        "scrollLine" : "27"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

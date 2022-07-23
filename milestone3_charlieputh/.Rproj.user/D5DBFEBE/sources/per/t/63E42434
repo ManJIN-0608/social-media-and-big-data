@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1653015203124.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2443759108",
+    "id" : "63E42434",
+    "lastKnownWriteTime" : 1574820414,
+    "last_content_update" : 1574820414,
+    "path" : "E:/Griffith University/4030BigData/milestone3_charlieputh/charlieputh.csv",
+    "project_path" : "charlieputh.csv",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

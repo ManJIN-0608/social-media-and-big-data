@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573970147000.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1874521641",
+    "id" : "FC799B38",
+    "lastKnownWriteTime" : 1574073605,
+    "last_content_update" : 1574073605161,
+    "path" : "D:/4030BigData/milestone2_charlieputh/charlieputh_youtube.R",
+    "project_path" : "charlieputh_youtube.R",
+    "properties" : {
+        "cursorPosition" : "92,72",
+        "scrollLine" : "69"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

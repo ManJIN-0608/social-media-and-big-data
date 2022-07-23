@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573965824175.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1679C378",
+    "lastKnownWriteTime" : 6292177857206116716,
+    "last_content_update" : 1573965824175,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "56457784",
+        "caption" : "g_youtube_actor",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=g_youtube_actor&cache_key=56457784",
+        "displayedObservations" : "4076",
+        "environment" : "",
+        "expression" : "g_youtube_actor",
+        "object" : "g_youtube_actor",
+        "preview" : "0",
+        "totalObservations" : "4076",
+        "variables" : "9"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

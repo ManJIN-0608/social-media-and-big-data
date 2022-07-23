@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574820284759.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BE456C7E",
+    "lastKnownWriteTime" : 7160569971446915616,
+    "last_content_update" : 1574820284759,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "91F142D8",
+        "caption" : "geo_tweet_loc",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=geo_tweet_loc&cache_key=91F142D8",
+        "displayedObservations" : "25",
+        "environment" : "",
+        "expression" : "geo_tweet_loc",
+        "object" : "geo_tweet_loc",
+        "preview" : "0",
+        "totalObservations" : "25",
+        "variables" : "5"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

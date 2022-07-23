@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1653015441093.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2827691945",
+    "id" : "A5DD5EE4",
+    "lastKnownWriteTime" : 1573960966,
+    "last_content_update" : 1573960966,
+    "path" : "E:/Griffith University/4030BigData/milestone2_charlieputh/dnce_twitter.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

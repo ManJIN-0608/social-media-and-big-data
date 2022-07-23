@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573962689229.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1961438569",
+    "id" : "E6D2E4F9",
+    "lastKnownWriteTime" : 1573985044,
+    "last_content_update" : 1573985044974,
+    "path" : "C:/Users/s5148464/Desktop/milestone2_charlieputh/charlieputh_youtube.R",
+    "project_path" : "charlieputh_youtube.R",
+    "properties" : {
+        "cursorPosition" : "19,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

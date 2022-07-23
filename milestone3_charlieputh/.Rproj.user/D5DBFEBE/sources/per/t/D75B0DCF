@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1653015254477.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3247913108",
+    "id" : "D75B0DCF",
+    "lastKnownWriteTime" : 1574823964,
+    "last_content_update" : 1574823964,
+    "path" : "E:/Griffith University/4030BigData/milestone3_charlieputh/rstudioplot.R",
+    "project_path" : "rstudioplot.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575173071965.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8DBF8906",
+    "lastKnownWriteTime" : 7160569971446915616,
+    "last_content_update" : 1575173071965,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "79B81A5",
+        "caption" : "geo_tweet",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=geo_tweet&cache_key=79B81A5",
+        "displayedObservations" : 1000,
+        "environment" : "",
+        "expression" : "geo_tweet",
+        "object" : "geo_tweet",
+        "preview" : 0,
+        "totalObservations" : 1000,
+        "variables" : 90
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

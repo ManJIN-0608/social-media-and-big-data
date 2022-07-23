@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573972757651.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F52F864A",
+    "lastKnownWriteTime" : 2480749419704230510,
+    "last_content_update" : 1573972757651,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "CE1D9B60",
+        "caption" : "tdm",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=tdm&cache_key=CE1D9B60",
+        "displayedObservations" : "1588",
+        "environment" : "",
+        "expression" : "tdm",
+        "object" : "tdm",
+        "preview" : "0",
+        "totalObservations" : "1588",
+        "variables" : "1500"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

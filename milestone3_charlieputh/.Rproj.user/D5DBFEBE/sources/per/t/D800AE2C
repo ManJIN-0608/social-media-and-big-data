@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1653015269206.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1217777414",
+    "id" : "D800AE2C",
+    "lastKnownWriteTime" : 1574742454,
+    "last_content_update" : 1574742454,
+    "path" : "E:/Griffith University/4030BigData/milestone3_charlieputh/sentiment_topic modelling.R",
+    "project_path" : "sentiment_topic modelling.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
